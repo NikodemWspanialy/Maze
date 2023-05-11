@@ -1,0 +1,2646 @@
+{
+  "$type": "Game.Level, Game",
+  "PlayerType": {
+    "playerPosition": {
+      "$type": "SFML.System.Vector2f, SFML.System",
+      "X": 475.0,
+      "Y": 415.0
+    }
+  },
+  "StaticObjectsList": [
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 295.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 355.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 415.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 475.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 535.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 595.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 655.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 715.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 775.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 835.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 895.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 955.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1015.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1075.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1135.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1195.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1255.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1315.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1660.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1720.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1780.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1840.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1900.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1960.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2020.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2080.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2140.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2260.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2320.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2380.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2440.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2815.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2875.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2935.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 340.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 400.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 460.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 520.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 580.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 640.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 700.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 760.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 820.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 880.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 940.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1000.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1060.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1120.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1180.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1240.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1300.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1360.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1420.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1480.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1540.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1600.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1660.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1720.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1780.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1840.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1900.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 1960.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2020.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2080.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2140.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2200.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2260.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2320.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2380.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2440.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2500.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2560.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2620.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2680.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2740.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2755.0,
+        "Y": 2740.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2695.0,
+        "Y": 2740.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2635.0,
+        "Y": 2740.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2575.0,
+        "Y": 2740.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2230.0,
+        "Y": 2740.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2170.0,
+        "Y": 2740.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2110.0,
+        "Y": 2740.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2050.0,
+        "Y": 2740.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1990.0,
+        "Y": 2740.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2245.0,
+        "Y": 2740.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2245.0,
+        "Y": 2680.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2245.0,
+        "Y": 2620.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2245.0,
+        "Y": 2560.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2245.0,
+        "Y": 2500.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2245.0,
+        "Y": 2440.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2245.0,
+        "Y": 2380.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2245.0,
+        "Y": 2320.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2305.0,
+        "Y": 2305.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2365.0,
+        "Y": 2305.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2425.0,
+        "Y": 2305.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2740.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2680.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2620.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2560.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2500.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2440.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2380.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2320.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2260.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2140.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2080.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2020.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1960.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 2110.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 2170.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 2230.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 2290.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 2350.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 2410.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 2470.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 2530.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 2590.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 2650.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 2710.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1615.0,
+        "Y": 2710.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1615.0,
+        "Y": 2650.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1615.0,
+        "Y": 2590.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1615.0,
+        "Y": 2530.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1615.0,
+        "Y": 2470.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1615.0,
+        "Y": 2410.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1615.0,
+        "Y": 2350.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1570.0,
+        "Y": 2320.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1510.0,
+        "Y": 2320.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1450.0,
+        "Y": 2320.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1390.0,
+        "Y": 2320.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1330.0,
+        "Y": 2320.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1270.0,
+        "Y": 2320.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2530.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2470.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2410.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2350.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2290.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2230.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2170.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2110.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2050.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1990.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1930.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1600.0,
+        "Y": 1810.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1600.0,
+        "Y": 1870.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1600.0,
+        "Y": 1930.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1600.0,
+        "Y": 1990.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1600.0,
+        "Y": 2050.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1540.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1480.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1420.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1360.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1300.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1240.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1600.0,
+        "Y": 1780.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1600.0,
+        "Y": 1720.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1600.0,
+        "Y": 1660.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1600.0,
+        "Y": 1600.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1600.0,
+        "Y": 1540.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1660.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1720.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1780.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1840.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1900.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1960.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2275.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2335.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2395.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2455.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2515.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 1465.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 1405.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 1345.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 1285.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 1225.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 1165.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 1105.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 1045.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 985.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 925.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 865.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 745.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 685.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 625.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2545.0,
+        "Y": 565.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2575.0,
+        "Y": 520.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2635.0,
+        "Y": 520.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2695.0,
+        "Y": 520.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 1585.0,
+        "Y": 2320.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 1495.0,
+        "Y": 2710.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 1360.0,
+        "Y": 2710.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 1225.0,
+        "Y": 2710.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1210.0,
+        "Y": 2335.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 340.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 400.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 460.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 520.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 580.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 640.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 700.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 760.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 820.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 880.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 940.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 1000.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 1060.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 1120.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 2200.0,
+        "Y": 1180.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 2185.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 2050.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 1465.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 1405.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 1120.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 1060.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 1000.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 940.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 880.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 820.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 760.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 700.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 640.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 580.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1525.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1585.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1570.0,
+        "Y": 280.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1510.0,
+        "Y": 340.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1480.0,
+        "Y": 400.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1450.0,
+        "Y": 445.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1405.0,
+        "Y": 490.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1330.0,
+        "Y": 550.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1330.0,
+        "Y": 625.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1330.0,
+        "Y": 685.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1330.0,
+        "Y": 745.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1330.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1735.0,
+        "Y": 1120.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 2005.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1945.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1885.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1825.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1765.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1705.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1645.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1585.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1465.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1405.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1345.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1285.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1225.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1225.0,
+        "Y": 1165.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1270.0,
+        "Y": 1135.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1330.0,
+        "Y": 1135.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1390.0,
+        "Y": 1135.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1450.0,
+        "Y": 1135.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1510.0,
+        "Y": 1135.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1570.0,
+        "Y": 1135.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1630.0,
+        "Y": 1135.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1690.0,
+        "Y": 1135.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1300.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1240.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1180.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1120.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1060.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1000.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 940.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 820.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 760.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 700.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 640.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 580.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 520.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 460.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 400.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 340.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 280.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 220.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 160.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 100.0,
+        "Y": 805.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 280.0,
+        "Y": 295.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 280.0,
+        "Y": 355.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 280.0,
+        "Y": 415.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 280.0,
+        "Y": 475.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 280.0,
+        "Y": 535.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 280.0,
+        "Y": 595.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 970.0,
+        "Y": 790.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 970.0,
+        "Y": 730.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 970.0,
+        "Y": 670.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 970.0,
+        "Y": 610.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 970.0,
+        "Y": 550.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 970.0,
+        "Y": 490.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 700.0,
+        "Y": 475.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 490.0,
+        "Y": 625.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 880.0,
+        "Y": 1120.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1165.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1225.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1285.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1345.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1405.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1465.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1585.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1645.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1705.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1765.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 880.0,
+        "Y": 1825.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 820.0,
+        "Y": 1840.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 760.0,
+        "Y": 1840.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 700.0,
+        "Y": 1840.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 640.0,
+        "Y": 1840.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 580.0,
+        "Y": 1840.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 520.0,
+        "Y": 1840.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 460.0,
+        "Y": 1840.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 400.0,
+        "Y": 1840.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1885.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1945.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 2005.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 2125.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 2185.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 2245.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 2305.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 2365.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 2425.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 2485.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 400.0,
+        "Y": 2530.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 460.0,
+        "Y": 2530.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 520.0,
+        "Y": 2530.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 580.0,
+        "Y": 2530.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 640.0,
+        "Y": 2530.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 700.0,
+        "Y": 2530.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 700.0,
+        "Y": 2470.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 700.0,
+        "Y": 2410.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 700.0,
+        "Y": 2350.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 700.0,
+        "Y": 2290.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 700.0,
+        "Y": 2230.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 700.0,
+        "Y": 2170.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 700.0,
+        "Y": 2110.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 700.0,
+        "Y": 2050.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 700.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 715.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 775.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 835.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 895.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 955.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1015.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1075.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 1135.0,
+        "Y": 2065.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1825.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1765.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1705.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1645.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1585.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1465.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1405.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1345.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1285.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1225.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 370.0,
+        "Y": 1165.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 2650.0,
+        "Y": 1525.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 1990.0,
+        "Y": 2020.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 1990.0,
+        "Y": 1885.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 1990.0,
+        "Y": 1945.0
+      }
+    },
+    {
+      "$type": "Game.BiggerStone, Game",
+      "BigStonePosition": {
+        "X": 475.0,
+        "Y": 415.0
+      }
+    }
+  ],
+  "ActiveObjectsList": [
+    {
+      "$type": "Game.NextLevelButton, Game",
+      "NextLevelButtonPosition": {
+        "X": 2650.0,
+        "Y": 700.0
+      }
+    },
+    {
+      "$type": "Game.NextLevelButton, Game",
+      "NextLevelButtonPosition": {
+        "X": 2875.0,
+        "Y": 430.0
+      }
+    }
+  ]
+}

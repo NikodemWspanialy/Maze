@@ -1,0 +1,12 @@
+{
+  "$type": "Game.Builder, Game",
+  "PlayerType": {
+    "playerPosition": {
+      "$type": "SFML.System.Vector2f, SFML.System",
+      "X": 715.0,
+      "Y": 610.0
+    }
+  },
+  "StaticObjectsList": [],
+  "ActiveObjectsList": []
+}

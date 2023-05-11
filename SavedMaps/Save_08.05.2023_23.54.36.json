@@ -1,0 +1,62 @@
+{
+  "$type": "Game.Builder, Game",
+  "PlayerType": {
+    "playerPosition": {
+      "$type": "SFML.System.Vector2f, SFML.System",
+      "X": 160.0,
+      "Y": 580.0
+    }
+  },
+  "StaticObjectsList": [
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 355.0,
+        "Y": 100.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 355.0,
+        "Y": 190.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 355.0,
+        "Y": 325.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 355.0,
+        "Y": 475.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 355.0,
+        "Y": 580.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 220.0,
+        "Y": 580.0
+      }
+    },
+    {
+      "$type": "Game.Stone, Game",
+      "StonePosition": {
+        "X": 160.0,
+        "Y": 580.0
+      }
+    }
+  ],
+  "ActiveObjectsList": []
+}

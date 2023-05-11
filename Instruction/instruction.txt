@@ -1,0 +1,15 @@
+I - close/open instruction
+UP Arrow - move up
+LEFT Arrow - move left
+RIGHT Arrow - move right
+DOWN Arrow  move down
+F1 - next level
+F2 - create new map
+F3 - edit this map
+
+BUILDING MODE
+SPACEBAR - place chosen object
+1 - choose small stone
+2 - choose big stone
+Q - coose gate to next level
+S + CTRL = save the map
