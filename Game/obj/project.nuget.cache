@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pMJl/OlYfFu8qlL6/FKSLTCKwnF5qPZtPeM1rlCi5T7KkM5gYXA1/VwqfFDpH6cusfypCTM0/OplfStiLPmIvg==",
+  "success": true,
+  "projectFilePath": "C:\\PRJs\\CS_PRJs\\PRJs\\Labirynt\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikod\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\nikod\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\nikod\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\nikod\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\nikod\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
